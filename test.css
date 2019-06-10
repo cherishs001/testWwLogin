@@ -1,1 +1,15 @@
-.impowerBox .title {display: none;}
+.impowerBox .title {
+    display: none;
+}
+
+.qrcode {
+    width: 150px !important;
+}
+
+.status {
+    display: none;
+}
+
+.wrp_code {
+    margin-top: 0 !important;
+}
